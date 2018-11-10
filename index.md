@@ -1,2 +1,2 @@
 <h1> my portfolio </h1>
-<a href="AndreiAAA.githab.io/Forkio/index.html"> Forkio </a>
+<a href="andreiaaa.github.io/forkio/index.html"> Forkio </a>
